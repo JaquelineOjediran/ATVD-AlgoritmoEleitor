@@ -1,0 +1,12 @@
+início
+
+Exibir "Digite a idade"
+Receber a idade
+Analisar a idade
+Se a idade for menor de 16 anos
+Exibir "Menores de 16 anos não podem votar."
+Se a idade for menor a 18 anos ou maior que 70 anos
+Exibir "O voto é facultativo."
+Senão exibir "O voto é obrigatório."
+
+fim
